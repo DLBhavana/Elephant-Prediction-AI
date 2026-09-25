@@ -1,0 +1,13 @@
+streamlit
+ultralytics
+opencv-python-headless
+pandas
+numpy
+scikit-learn
+geopandas
+pyogrio
+shapely
+matplotlib
+reportlab
+torch==2.11.0
+torchvision==0.26.0
